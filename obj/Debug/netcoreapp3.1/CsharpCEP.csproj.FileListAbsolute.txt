@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Documents\backend\CsharpCEP\bin\Debug\netcoreapp3.1\CsharpCEP.exe
+C:\Users\Lenovo\Documents\backend\CsharpCEP\bin\Debug\netcoreapp3.1\CsharpCEP.deps.json
+C:\Users\Lenovo\Documents\backend\CsharpCEP\bin\Debug\netcoreapp3.1\CsharpCEP.runtimeconfig.json
+C:\Users\Lenovo\Documents\backend\CsharpCEP\bin\Debug\netcoreapp3.1\CsharpCEP.runtimeconfig.dev.json
+C:\Users\Lenovo\Documents\backend\CsharpCEP\bin\Debug\netcoreapp3.1\CsharpCEP.dll
+C:\Users\Lenovo\Documents\backend\CsharpCEP\bin\Debug\netcoreapp3.1\CsharpCEP.pdb
+C:\Users\Lenovo\Documents\backend\CsharpCEP\obj\Debug\netcoreapp3.1\CsharpCEP.csprojAssemblyReference.cache
+C:\Users\Lenovo\Documents\backend\CsharpCEP\obj\Debug\netcoreapp3.1\CsharpCEP.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\backend\CsharpCEP\obj\Debug\netcoreapp3.1\CsharpCEP.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\backend\CsharpCEP\obj\Debug\netcoreapp3.1\CsharpCEP.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\backend\CsharpCEP\obj\Debug\netcoreapp3.1\CsharpCEP.dll
+C:\Users\Lenovo\Documents\backend\CsharpCEP\obj\Debug\netcoreapp3.1\CsharpCEP.pdb
+C:\Users\Lenovo\Documents\backend\CsharpCEP\obj\Debug\netcoreapp3.1\CsharpCEP.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\backend\CsharpCEP\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Lenovo\Documents\backend\CsharpCEP\obj\Debug\netcoreapp3.1\CsharpCEP.csproj.CopyComplete
